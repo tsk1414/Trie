@@ -231,7 +231,6 @@ int main() {
     
     int n = stoi(ltrim(rtrim(n_temp)));
     for (int n_itr = 0; n_itr < n; n_itr++) {
-        // Write your code here to read in the command and any additional input (if needed)
         string c_temp;
         cin >> c_temp;
         string command = (ltrim(rtrim(c_temp)));
