@@ -51,7 +51,7 @@ Output
 ”1” if it is found.
 - For the ”info” command, print a line containing two space separated integers. The
 first integer is the number of nodes in the trie, the second is the number of words.
-- For the ”alphabetical” command, print all the words contained in the trie in alphabetical order. One word per line.
+- For the ”alphabetical” command, print all the words contained in the trie in alphabetical order. One word per line.
 - For the ”autocomplete” command, print the possible autocompleted words on a single
 space-separated line in alphabetical order (the line will end in a space).
 
